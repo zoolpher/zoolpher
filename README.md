@@ -51,8 +51,8 @@ Low-level network traffic metadata analyzer built in C++ using Npcap — capture
 #### 🔹 [sql-engine](https://github.com/zoolpher/sql-engine)
 A lightweight SQL database engine built from scratch in C++ to explore database internals — query parsing, storage engines, indexing, and query execution, step by step.
 
-#### 🔹 [bnb-lob-capture](https://github.com/zoolpher/binance-lob-capture)
-High-performance Binance WebSocket market data capture + Local Order Book in C++17. Fixed-point arithmetic, sequence-gap detection, and RFC 4180-compliant CSV writers, wired into a C++ ingestion engine + pybind11 + FastAPI gateway + Redis pub/sub pipeline.
+#### 🔹 [bnb-lens](https://github.com/zoolpher/bnb-lens)
+High-performance Binance WebSocket market data capture and Local Order Book (LOB) engine in C++17. Engineered with fixed-point arithmetic for deterministic precision, automated sequence-gap detection, and highly optimized RFC 4180-compliant CSV writers utilizing OS-level I/O buffering. Features zero-initialization memory safety and graceful atomic signal handling.
 
 ---
 
