@@ -39,30 +39,30 @@
 
 ### 🚀 Projects
 
-#### 🔹 [nut-shell](https://github.com/zoolpher/nut-shell)
+#### 🔸 [nut-shell](https://github.com/zoolpher/nut-shell)
 My first C++ Unix shell implementation — the original build that laid the groundwork before the full v2 rebuild.
 
-#### 🔹 [nut-shell-v2](https://github.com/zoolpher/nut-shell-v2)
+#### 🔸 [nut-shell-v2](https://github.com/zoolpher/nut-shell-v2)
 C++ Unix shell (v2): builtins, background jobs, error-safe redirection, and Readline history — rebuilt from scratch with a full understanding of every syscall involved.
 
-#### 🔹 [net-scout](https://github.com/zoolpher/net-scout)
+#### 🔸 [net-scout](https://github.com/zoolpher/net-scout)
 Low-level network traffic metadata analyzer built in C++ using Npcap — captures live packets, parses Ethernet/IP/TCP headers, detects port scans, and extracts SNI domain names from encrypted HTTPS traffic. Modular architecture (capture, parser, detector, sni, main) with a CMake build system.
 
-#### 🔹 [sql-engine](https://github.com/zoolpher/sql-engine)
+#### 🔸 [sql-engine](https://github.com/zoolpher/sql-engine)
 A lightweight SQL database engine built from scratch in C++ to explore database internals — query parsing, storage engines, indexing, and query execution, step by step.
 
-#### 🔹 [bnb-lens](https://github.com/zoolpher/bnb-lens)
+#### 🔸 [bnb-lens](https://github.com/zoolpher/bnb-lens)
 High-performance Binance WebSocket market data capture and Local Order Book (LOB) engine in C++17. Engineered with fixed-point arithmetic for deterministic precision, automated sequence-gap detection, and highly optimized RFC 4180-compliant CSV writers utilizing OS-level I/O buffering. Features zero-initialization memory safety and graceful atomic signal handling.
 
 ---
 
-#### 🔸 [class-scan](https://github.com/zoolpher/class-scan)
+#### 🔹 [class-scan](https://github.com/zoolpher/class-scan)
 AI-powered face recognition attendance system, built in Python.
 
-#### 🔸 ESP32 Multiplayer Tic-Tac-Toe
+#### 🔹 [ESP32 Multiplayer Tic-Tac-Toe](https://github.com/zoolpher/tic-tac-toe)
 A tic-tac-toe web server running on an ESP32 (WROOM-32). Game logic lives entirely in C++ server-side; the ESP32 hosts its own hotspot, auto-syncs frontend files from GitHub on boot, and caches them to LittleFS. Frontend is plain HTML/CSS/JS, served over WebSocket.
 
-#### 🔸 R.E.D. — Real-Estate Decentralized App
+#### 🔹 [R.E.D. — Real-Estate Decentralized App](https://github.com/zoolpher/Real-Estate-DApp-R.E.D.-)
 Built at the BIT Mesra Hackathon, where it was selected as a finalist.
 
 ---
